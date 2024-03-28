@@ -25,6 +25,8 @@ Steps:
 
 7> attach the whells and All Set.!
 
+
+Schematics:
 ![MazeSolverSchematic](https://github.com/SiddharthKharvi/MAZE-RUNNER/assets/50961569/7c143f39-2333-41d8-ae5a-09df210ca45a)
 
 
