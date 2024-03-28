@@ -5,8 +5,8 @@ It uses very simple circuit schematic and very simple algorithm
 make sure u calibrate for minimum detection distance based on maze
 
 Steps:
-1> Assemble the Chassis\n
-2> Mount the Motors\n
+1> Assemble the Chassis
+2> Mount the Motors
 3> Mount compoents on Chassis with a gluegun or gum tape
 4> Mount servo on Chassis front, attach senor facing front on BOT.
 <!> Make sure servo is at 90Degree on mounting Sensor.
