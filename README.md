@@ -37,6 +37,12 @@ the Program is Right Priority Algorithm: it scans right side of bot first
 
 If Bot is not working check the Connections again, this worked for me perfectly ;)
 
+WARNING:
+DO NOT short-circuit Arduino / Battery
+DO NOT Supply Reverse Polarity
+USE voltage < 24 for Motor Driver
+USE voltage <=5 for Arduino (NOT via DC JACK)
+
 Thank You for Rading, Best of Luck
 
 Open for any suggestion, correction.
