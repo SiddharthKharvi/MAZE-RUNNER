@@ -1,0 +1,10 @@
+1x Arduino UNO + cable: 500Rs
+1x Robot Chassis with Wheels: 300Rs
+2x Motors 200Rs
+1x Ultrasound sensor: 150Rs
+1x servo: 100Rs
+2x 3.7V LiIon battery: 140Rs
+1x 2s Battery holder: 40Rs
+Many Jumpers + wires + Gum: approx 50Rs
+
+Total cost should be Less than 1600Rs
