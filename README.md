@@ -6,7 +6,11 @@ make sure u calibrate for minimum detection distance based on maze
 
 Turning delay is propotional to angle the bot turns
 Minmum distance will determine at what distance Bot sould STOP
-
 the Program is Right Priority Algorithm: it scans right side of bot first
 
+Thank You for Rading, Best of Luck
+
+Open for any suggestion, correction.
+Regards
+Siddharth Khari
 
